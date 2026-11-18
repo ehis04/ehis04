@@ -1,6 +1,6 @@
 # Hi, I'm Ehis 👋
 
-Computer Science graduate from Dublin City University with a focus on **full-stack development, football analytics, data pipelines, AI-assisted applications, and knowledge-based software systems**.
+Current MSc in AI student at the University of Birmingham and Computer Science graduate from Dublin City University with a focus on **full-stack development, football analytics, data pipelines, AI-assisted applications, and knowledge-based software systems**.
 
 I build practical products that bridge backend infrastructure, data engineering, machine learning, and user-facing interfaces into cohesive, production-quality applications.
 
